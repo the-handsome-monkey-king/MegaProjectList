@@ -12,17 +12,29 @@ The full original list can be found in the original repo. As I complete more pro
 Numbers
 ---------
 
-**Find e to the Nth Digit** - Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go. [python](https://github.com/the-handsome-monkey-king/find_euler.py)
+**Find e to the Nth Digit** - Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go. 
+- [python](https://github.com/the-handsome-monkey-king/find_euler.py)
+- [c (spigot)](https://github.com/the-handsome-monkey-king/euler_spigot.c)
 
-**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. [python](https://github.com/the-handsome-monkey-king/fibonacci.py)
+**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. 
+- [python](https://github.com/the-handsome-monkey-king/fibonacci.py)
+- [c](https://github.com/the-handsome-monkey-king/fibonacci.c)
 
-**Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them. [python](https://github.com/the-handsome-monkey-king/prime_factors.py)
+**Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them. 
+- [python](https://github.com/the-handsome-monkey-king/prime_factors.py)
+- [c](https://github.com/the-handsome-monkey-king/prime_factors.c)
 
-**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. [python](https://github.com/the-handsome-monkey-king/next_prime.py)
+**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. 
+- [python](https://github.com/the-handsome-monkey-king/next_prime.py)
+- [c](https://github.com/the-handsome-monkey-king/next_prime.c)
 
-**Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user. [python](https://github.com/the-handsome-monkey-king/get_tile_cost.py)
+**Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user. 
+- [python](https://github.com/the-handsome-monkey-king/get_tile_cost.py)
+- [c](https://github.com/the-handsome-monkey-king/get_tile_cost.c)
 
-**Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually). [python](https://github.com/the-handsome-monkey-king/mortgage.py)
+**Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually). 
+- [python](https://github.com/the-handsome-monkey-king/mortgage.py)
+- [c](https://github.com/the-handsome-monkey-king/mortgage.c)
 
 **Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change. [python](https://github.com/the-handsome-monkey-king/change_return.py)
 
