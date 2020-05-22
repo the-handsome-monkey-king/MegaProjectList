@@ -8,6 +8,7 @@ The full original list can be found in the original repo. As I complete more pro
 ## Table of Contents
 
 - [Numbers](https://github.com/the-handsome-monkey-king/MegaProjectList#numbers)
+- [Classic Algorithms](https://github.com/the-handsome-monkey-king/MegaProjectList#classic-algorithms)
 
 Numbers
 ---------
@@ -75,3 +76,19 @@ Numbers
 
 **Fast Exponentiation** - Ask the user to enter 2 integers a and b and output a^b (i.e. pow(a,b)) in O(lg n) time complexity. 
 - [python](https://github.com/the-handsome-monkey-king/fast_exp.py)
+
+Classic Algorithms
+-----------------
+
+**Collatz Conjecture** - Start with a number *n > 1*. Find the number of steps it takes to reach one using the following process: If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1.
+- [python](https://github.com/the-handsome-monkey-king/collatz_conjecture.py)
+
+**Sorting** - Implement two types of sorting algorithms: Merge sort and bubble sort.
+- [bubble sort - python](https://github.com/the-handsome-monkey-king/bubble_sort.py)
+- [merge sort - python](https://github.com/the-handsome-monkey-king/merge_sort.py)
+
+**Closest pair problem** - The closest pair of points problem or closest pair problem is a problem of computational geometry: given *n* points in metric space, find a pair of points with the smallest distance between them.
+- [python](https://github.com/the-handsome-monkey-king/closest_pair.py)
+
+**Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
+- [python](https://github.com/the-handsome-monkey-king/sieve_of_eratosthenes.py)
