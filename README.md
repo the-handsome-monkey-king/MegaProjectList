@@ -9,6 +9,7 @@ The full original list can be found in the original repo. As I complete more pro
 
 - [Numbers](https://github.com/the-handsome-monkey-king/MegaProjectList#numbers)
 - [Classic Algorithms](https://github.com/the-handsome-monkey-king/MegaProjectList#classic-algorithms)
+- [Graph](https://github.com/the-handsome-monkey-king/MegaProjectList#graph)
 
 Numbers
 ---------
@@ -93,3 +94,15 @@ Classic Algorithms
 
 **Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
 - [python](https://github.com/the-handsome-monkey-king/sieve_of_eratosthenes.py)
+
+Graph
+------
+
+**Graph from links** - Create a program that will create a graph or network from a series of links.
+- [python](https://github.com/the-handsome-monkey-king/Network.py)
+
+**Eulerian Path** - Create a program which will take as an input a graph and output either a Eulerian path or a Eulerian cycle, or state that it is not possible. A Eulerian Path starts at one node and traverses every edge of a graph through every node and finishes at another node. A Eulerian cycle is a eulerian Path that starts and finishes at the same node.
+- [python](https://github.com/the-handsome-monkey-king/Network.py)
+
+**Connected Graph** - Create a program which takes a graph as an input and outputs whether every node is connected or not.
+- [python](https://github.com/the-handsome-monkey-king/Network.py)
