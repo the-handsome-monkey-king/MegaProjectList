@@ -17,15 +17,18 @@ Numbers
 **Find e to the Nth Digit** - Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go. 
 - [python](https://github.com/the-handsome-monkey-king/find_euler.py)
 - [python (spigot)](https://github.com/the-handsome-monkey-king/euler_spigot.py)
-- [c (spigot)](https://github.com/the-handsome-monkey-king/euler_spigot.c)
+- [c](https://github.com/the-handsome-monkey-king/euler_spigot.c)
+- [c++](https://github.com/the-handsome-monkey-king/euler_spigot.cpp)
 
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number. 
 - [python](https://github.com/the-handsome-monkey-king/fibonacci.py)
 - [c](https://github.com/the-handsome-monkey-king/fibonacci.c)
+- [c++](https://github.com/the-handsome-monkey-king/fibonacci.cpp)
 
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them. 
 - [python](https://github.com/the-handsome-monkey-king/prime_factors.py)
 - [c](https://github.com/the-handsome-monkey-king/prime_factors.c)
+- [c++](https://github.com/the-handsome-monkey-king/prime_factors.cpp)
 
 **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. 
 - [python](https://github.com/the-handsome-monkey-king/next_prime.py)
@@ -57,6 +60,7 @@ Numbers
 
 **Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum). 
 - [python](https://github.com/the-handsome-monkey-king/verify_credit_card.py)
+- [c++](https://github.com/the-handsome-monkey-king/verify_credit_card.cpp)
 
 **Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax. 
 - [python](https://github.com/the-handsome-monkey-king/sales_tax.py)
