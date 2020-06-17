@@ -37,6 +37,7 @@ Numbers
 **Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user. 
 - [python](https://github.com/the-handsome-monkey-king/get_tile_cost.py)
 - [c](https://github.com/the-handsome-monkey-king/get_tile_cost.c)
+- [c++](https://github.com/the-handsome-monkey-king/TileEstimator.cpp)
 
 **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually). 
 - [python](https://github.com/the-handsome-monkey-king/mortgage.py)
