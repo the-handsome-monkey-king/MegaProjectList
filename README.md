@@ -43,6 +43,7 @@ Numbers
 **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually). 
 - [python](https://github.com/the-handsome-monkey-king/mortgage.py)
 - [c](https://github.com/the-handsome-monkey-king/mortgage.c)
+- [c++](https://github.com/the-handsome-monkey-king/MortgageCalculator.cpp)
 
 **Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change. 
 - [python](https://github.com/the-handsome-monkey-king/change_return.py)
