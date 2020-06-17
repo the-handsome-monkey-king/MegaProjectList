@@ -33,6 +33,7 @@ Numbers
 **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. 
 - [python](https://github.com/the-handsome-monkey-king/next_prime.py)
 - [c](https://github.com/the-handsome-monkey-king/next_prime.c)
+- [c++](https://github.com/the-handsome-monkey-king/next_prime.cpp)
 
 **Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user. 
 - [python](https://github.com/the-handsome-monkey-king/get_tile_cost.py)
