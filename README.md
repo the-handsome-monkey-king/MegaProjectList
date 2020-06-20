@@ -53,6 +53,7 @@ Numbers
 **Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent. 
 - [python](https://github.com/the-handsome-monkey-king/binary_to_decimal.py)
 - [c](https://github.com/the-handsome-monkey-king/decimal_to_binary.c)
+- [c++](https://github.com/the-handsome-monkey-king/BinaryConverter.cpp)
 
 **Calculator** - A simple calculator to do basic operators. 
 - [python](https://github.com/the-handsome-monkey-king/simple_calculator.py)
